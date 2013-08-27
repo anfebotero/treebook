@@ -6,7 +6,7 @@
 .status p{
 	margin: 0 0 5px;
 }
-.satus.hover{
+.status.hover {
 	background:#fafafa;
 }
 .status .admin {
@@ -14,4 +14,7 @@
 }
 .status.hover .admin{
 	display:inline;
+}
+.page-header a {
+	margin-top:-40px;
 }
